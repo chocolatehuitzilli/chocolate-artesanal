@@ -1,0 +1,189 @@
+header{
+    display: flex;
+    height: 650px;
+    margin: 0% auto;
+}
+.cabecera{
+   display: flex;
+   justify-content: center;
+   
+
+
+}
+
+.primeraDivision{
+    display: flex;
+    
+}
+
+#chocoEscurre{
+    position: relative;
+    width: 100%;
+    height: 100;
+    justify-content: center;
+}    
+
+#logo{
+   display: flex;
+   position: absolute;
+   justify-content: center;
+   width: 12%;
+   right: 100px;
+  
+}
+
+
+#Artesanal{
+    display: flex;
+    position:absolute;
+    left: 85px;
+    width: 85%;
+    top: 125px;
+   
+}
+
+.segundaDivision{
+    display: flex;
+    justify-content: space-between;
+    
+    
+ 
+        
+}
+
+#taza{
+    display: flex;
+    width: 24%;
+    
+}
+
+#granos{
+    display: flex;
+    width: 24%;
+    height: auto;
+}
+
+#polvo{
+    display: flex;
+    width: 24%;
+    height: auto;
+}
+
+body{
+  
+}
+
+.deliciosa{
+    display: flex;
+    justify-content: center;
+    padding: 95px;
+      
+}
+
+#consistencia{
+    display: flex;
+    justify-self: center;
+    width: 85%;
+}
+
+
+.productos-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.producto-item{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#descripcion-producto{
+    display: flex;
+    width: 20%;
+}
+
+
+.productosContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    gap: 170px 25px;
+   
+    
+    
+}
+
+.productoItem{
+    display: flex;
+    position: relative;
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    
+    
+}
+
+#imagenProducto{
+    display: flex;
+    width: 60%;
+}
+
+
+
+.TituloProducto{
+    display: flex;
+    position: absolute;
+    left: 2px;
+    font-size: xx-large;  
+}
+
+.DescripcionProducto{
+    display: flex;
+    position: absolute;
+    left: 2px;  
+    padding-top: 55px;
+    font-size: x-large;  
+}
+
+.MensajeDeProducto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 170px;
+    font-size: xx-large;
+}
+
+
+.Pie{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    
+}
+
+.contac{
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+.contacto{
+    display: flex;
+    font-size: xx-large;
+    font-weight: bold;
+    position: relative;
+    left: 2px;   
+}
+
+
+#logoWhats{
+    padding: 85px;
+    width: 12%;
+}
+    
